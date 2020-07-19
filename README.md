@@ -19,7 +19,7 @@ ALL COMMANDS
 
 9. git clone (link)
 
-cloning link (https://github.com/prashanth369-max/shellphishing.git)
+cloning link https://github.com/prashanth369-max/shellphishing.git
 
 10.  cd shellphish
 
